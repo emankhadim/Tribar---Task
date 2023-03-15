@@ -1,6 +1,6 @@
-# Tribar---Task
-TensorFlow Task
-I can guide you on how to run this code through the command line.
+Development environment used : Python 3.8 , TensorFlow 2.3 , Libraries used: Numpy , Argparse , Random.
+
+How to run this code through the command line.
 
 Assuming you have saved the code in a file named neural_network.py, you can follow these steps:
 
